@@ -1,3 +1,3 @@
 ## Image
 
-![Text](<SL_AUTH_UserFlow.png>)
+![Text](sl_auth_userflow.png)
